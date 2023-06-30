@@ -1,4 +1,4 @@
-# Demo video of the project:
+# Demo video of the project:https://www.linkedin.com/posts/venkatesh-kumar-s-b3293a59_python-mysql-streamlit-activity-7080316032933859328--zzT?utm_source=share&utm_medium=member_desktop
 # BizCard-Extracting_Business_card_Text_with_EasyOCR
 ## About the Project
 A Streamlit application was developed that allows users to upload an image of a business card and extract relevant information from it using EasyOCR library in Python 3.11. The extracted information includes the company name, card holder name, designation, phone number, email id, website URL, address and pin code. 
